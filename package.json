@@ -1,0 +1,24 @@
+{
+  "name": "infor-you-mation-spider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luckykaiyi/infor-you-mation-spider.git"
+  },
+  "author": "luckykaiyi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luckykaiyi/infor-you-mation-spider/issues"
+  },
+  "homepage": "https://github.com/luckykaiyi/infor-you-mation-spider#readme",
+  "dependencies": {
+    "iconv": "^2.1.11",
+    "request": "^2.67.0",
+    "xmlreader": "^0.2.3"
+  }
+}
